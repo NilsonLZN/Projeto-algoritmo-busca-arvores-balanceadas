@@ -28,3 +28,5 @@ Quando o nó está desbalanceado para a direita e seu filho direito também est�
   T1  x        →               y   T3
      / \                      / \
    T2  T3                   T1  T2
+
+
